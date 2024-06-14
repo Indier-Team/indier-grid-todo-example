@@ -7,8 +7,8 @@
   },
   "servers": [
     {
-      "url": "https://indier-grid-status-example.deno.dev",
-      "description": "Development server"
+      "url": "https://indier-grid-todo-example.deno.dev",
+      "description": "Production server"
     }
   ],
   "paths": {
